@@ -1,0 +1,1 @@
+This program creates a socket and listens on specific port. Received data is ciphered by ROT13 simple substitution algorithm, then data is sent back to client.
